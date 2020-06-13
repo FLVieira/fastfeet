@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="#principais-tecnologias-utilizadas">Tecnologias utilizadas</a> |
+  <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> |
   <a href="#instalação-e-execução">Instalação</a> |
   <a href="#-licença">Licença</a>
 </p>
