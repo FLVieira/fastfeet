@@ -30,11 +30,21 @@
 <p align="center">
   <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a> |
   <a href="#instalação-e-execução">Instalação</a> |
+  <a href="#-layout">Layout</a> |
   <a href="#-licença">Licença</a>
 </p>
 
 Este é o desafio final criado no Bootcamp da Rocketseat. Nela desenvolvemos um serviço apelidado de FastFeet que é um app para uma transportadora fictícia. O admin do sistema tem/usa suas funcionalidades pelo cliente web feito em ReactJS, enquanto os entregadores usam o cliente mobile desenvolvido em React Native para criarem uma conta e usarem suas funcionalidades, sendo toda a lógica gerenciada pela api desenvolvida em NodeJS.
 
+## 🎨 Layout 
+
+### Front-End
+
+Você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://xd.adobe.com/view/62e829fc-4f10-4ac8-70d2-d39b429d43ee-14d9/grid/)
+
+### Mobile 
+
+Você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://xd.adobe.com/view/a5d56d7d-c1d4-48a8-70ce-8b77f5f417a5-d3e4/grid).
 
 # Instalação e execução
 
