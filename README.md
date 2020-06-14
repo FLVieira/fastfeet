@@ -46,7 +46,7 @@ Você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](
 
 Você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://xd.adobe.com/view/a5d56d7d-c1d4-48a8-70ce-8b77f5f417a5-d3e4/grid).
 
-# Instalação e execução
+## Instalação e execução
 
 1. git clone https://github.com/FLVieira/fastfeet.git
 2. cd fastfeet
@@ -175,7 +175,7 @@ Pré-requisitos:
 
 ## Tecnologias utilizadas
 
-# Frontend
+### Frontend
 
 - ⚛ **React** — Biblioteca para construir interfaces de usuário
 - ⚛ **Redux** — Gerenciamento de estado (inclui Saga e Persist)
@@ -184,7 +184,7 @@ Pré-requisitos:
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
 
-# Backend
+### Backend
 
 - [bcryptjs](https://github.com/dcodeIO/bcrypt.js/blob/master/README.md)
 - [bee-queue](https://github.com/bee-queue/bee-queue)
@@ -206,7 +206,7 @@ Pré-requisitos:
 - [youch](https://github.com/poppinss/youch)
 - [yup](https://github.com/jquense/yup)
 
-# Mobile
+### Mobile
 
 - [axios](https://github.com/axios/axios)
 - [date-fns](https://github.com/date-fns/date-fns)
